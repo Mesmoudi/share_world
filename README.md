@@ -1,2 +1,3 @@
-# share_world
-This directory was created to share documents and code about the "Participative and citizen sciences" course
+# CRI code club website project
+
+This project is actually hosted on another git platform called *framagit*, <https://framagit.org/cricodeclub/website>
