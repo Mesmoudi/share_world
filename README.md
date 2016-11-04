@@ -1,2 +1,2 @@
 # share_world
-This project is to initiate the "Participative and citizen sciences" course
+This directory was created to share documents and code about the "Participative and citizen sciences" course
