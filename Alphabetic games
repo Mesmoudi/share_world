@@ -12,13 +12,19 @@ We will develop the game with Unreal Engine 4 (https://www.unrealengine.com/) an
 (https://symfony.com/). 
 
 part of the project :
- - Create the game on Unreal Engine 4
-We will create all different steps of the game. 
-
-
- - Create the part about management of word and letters
- - Connect them together
- - Create the part open to add new content
- - Create the part open to change the end of the game
- - DO the documentation
+ - We will create all different steps of the game thanks to Unreal Engine4. These steps are: 
+    - Choice between 1st person or 3rd person to the camera
+    - Function to collect object (letters) on the game
+    - Function to save object into a box 
+    - Function to wet people (function to shoot another player)
+    - Function when you lost object (When another player fall down you with water gun)
+    
+ - We will the Website, thanks to Symfony, with different steps:
+    - Create a link between the game and the future Website (that's to say connect letters and future words)
+    - Historic of the game playing 
+    - Create the Open part of the project :
+        - We want that every people can add every dictionary they want
+        - In future, we would like to open the content of the game. That's to say if you want to add math, you can make it. 
+    
+- During all the project, we will make a documentation about all of things 
  
