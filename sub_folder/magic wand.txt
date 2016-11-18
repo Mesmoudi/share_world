@@ -1,0 +1,31 @@
+Magic Wand Project by Maria AZI
+
+Introduction
+
+I'm calling my project magic wand. It was inspired by my teaching experience in a kindergarten class in Taiwan for two years. I noticed the children would often become overexcited during playtime, meaning that their voices and movements would get out of control. The usual response to this behavior was yelling and punishment from the teacher. I didn't like this response for many reasons: I don't like yelling, I don't like the stigma of punishment, verbal or otherwise, and I didn't feel like these things were helping prevent the out of control behavior.
+I looked for an alternative solution and I ended up making a time-out glitter bottle. This was a toy that was visually engaging and calming. In class, we discussed how this toy would be used as a tool to calm us down whenever we got overexcited. Teachers liked it because both they and the children yelled less. The children liked it because it was beautiful, distracting, and much better than being yelled at or punished. And, eventually, I noticed that some of the children were able to recognize that their behavior was getting out of control, remembered that they had recourse to use the glitter bottle, and asked to play with it before we as teachers told them to.
+Inspired by the success of the glitter bottle, my magic wand project will also be a toy to help children calm themselves when they are overexcited, this time through sound. It is based on the idea of rain stick- a long cylinder that makes soothing rain sounds when it's turned over. With the first prototype I will focus on making it using methods and materials that are inexpensive and accessible. Future iterations may focus on the type of sound made, the length of time of play, and adding an element of technology to gather and report data about its use to measure its effectiveness.
+
+Resources
+glitter bottle: https://mycrazyblessedlife.com/2011/10/03/relax-bottletime-out-timer/
+rain stick: https://en.wikipedia.org/wiki/Rainstick
+rain stick sound: https://www.youtube.com/watch?v=CRrri6bTDCw
+how to make a rainstick: https://www.youtube.com/watch?v=xr4UCJgsyic
+flip top lids to control speed of rainstick: http://www.thingiverse.com/thing:575490
+
+
+Outline of magic wand plan (and invitation to collaborate)
+
+make first prototype at l'openlab (Kevin, Daniel, Liburn)
+document through photos and video the making of prototype (mostly me)
+add all documentation to GitHub 
+research why children become overexcited (me, Fabienne)
+research soothing sounds to calm overexcited children (me, Salma, Liburn)
+research making children aware of their emotions/communicate their emotions/control their emotions (me, Salma)
+consider different ways/types to get data from use of magic wand (me, Kevin, JFB)
+think of what kinds of data are most meaningful to collect (me, Fabienne)
+consider ways to aggregate data from users and make it participatory (me, Salma)
+look into opportunities to have young children (age 5-7) use toy and collect data (Imad, Pascale, JFB)
+
+
+
