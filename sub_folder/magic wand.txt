@@ -18,7 +18,8 @@ Outline of magic wand plan (and invitation to collaborate)
 
 make first prototype at l'openlab (Kevin, Daniel, Liburn)
 document through photos and video the making of prototype (mostly me)
-add all documentation to GitHub 
+make and edit video of use of magic wand toy (with help from Solene, Anat)
+add all documentation to GitHub (me, technical help from Soizic and Louis)
 research why children become overexcited (me, Fabienne)
 research soothing sounds to calm overexcited children (me, Salma, Liburn)
 research making children aware of their emotions/communicate their emotions/control their emotions (me, Salma)
