@@ -4,7 +4,10 @@ At the end of the game, you have to fill the letter in the blank of the word wit
 Moreover, you can  another player with a water gun to fall down him and collect his letters.
 Each letters will have a specific color. This color is corresponding to the color of a word. 
 
-We want to open one part of the game: 
+We also create a website. It's on this website that you will create your word with letter. This part of the project will be Open. In this way, 
+everybody can add another dictionary in another language. 
+
+
  - Everybody can change the content and the end of the game. For example, if somebody wants to add new steps at the end, it's possible. 
  
  
