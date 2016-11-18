@@ -1,0 +1,24 @@
+It’s a video game which you have to collect letters on a map. It is a 1st player game and also multiplayer game, you can play with 
+a keyboard and a mouse. And you could play with different roles, like avatar, ironman. 
+At the end of the game, you have to fill the letter in the blank of the word with letters you collected. 
+Moreover, you can  another player with a water gun to fall down him and collect his letters.
+Each letters will have a specific color. This color is corresponding to the color of a word. 
+
+We also create a website. It's on this website that you will create your word with letter. This part of the project will be Open. In this way, 
+everybody can add another dictionary in another language. 
+In the future, we also want to open the content of the game, that's to say if people want to have math in the game, it will possible. 
+
+We will develop the game with Unreal Engine 4 (https://www.unrealengine.com/) and the Website will be develop on Symfony
+(https://symfony.com/). 
+
+part of the project :
+ - Create the game on Unreal Engine 4
+We will create all different steps of the game. 
+
+
+ - Create the part about management of word and letters
+ - Connect them together
+ - Create the part open to add new content
+ - Create the part open to change the end of the game
+ - DO the documentation
+ 
