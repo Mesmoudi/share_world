@@ -1,6 +1,7 @@
-Create a learning video game which the aim of the game is to collect letters and create words at the end of the game based on letters 
-you have collected.
-Based on this, everybody can learn vocabularies in foreign languages. 
+It’s a video game which you have to collect letters on a map. It is a 1st player game and a multiplayer game, you can play with a keyboard and a mouse and you play with an avatar. 
+At the end of the game, you have to create a word with letters you collected. The word is a word in a foreign language. 
+Moreover, you can wet another player with a water gun to fall down him and collect his letters.
+Each letters will have a specific color. This color is corresponding to the color of a word. 
 
 We want to open one part of the game: 
  - Everybody can change the content and the end of the game. For example, if somebody wants to add new steps at the end, it's possible. 
