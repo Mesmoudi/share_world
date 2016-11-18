@@ -1,30 +1,30 @@
 It’s a video game which you have to collect letters on a map. It is a 1st player game and also multiplayer game, you can play with 
 a keyboard and a mouse. And you could play with different roles, like avatar, ironman. 
 At the end of the game, you have to fill the letter in the blank of the word with letters you collected. 
-Moreover, you can  another player with a water gun to fall down him and collect his letters.
-Each letters will have a specific color. This color is corresponding to the color of a word. 
+Moreover, you can shoot another player with a water gun to defeat him and get one letter from him.
+Each letter will have its own color, and also the word. So, you could only use the same color letters to fill the same color words.  
 
-We also create a website. It's on this website that you will create your word with letter. This part of the project will be Open. In this way, 
-everybody can add another dictionary in another language. 
-In the future, we also want to open the content of the game, that's to say if people want to have math in the game, it will possible. 
+We will also create a website for demonstration. You should complete the words here.There are two parts are open for all.
+First, you could also add new word and set different language. Then it will become a dictionary finally.
+Second, you could change the subject of the game into math or physics.
 
 We will develop the game with Unreal Engine 4 (https://www.unrealengine.com/) and the Website will be develop on Symfony
 (https://symfony.com/). 
 
 part of the project :
- - We will create all different steps of the game thanks to Unreal Engine4. These steps are: 
+ - We will create several steps of the game with Unreal Engine4. These steps are: 
     - Choice between 1st person or 3rd person to the camera
     - Function to collect object (letters) on the game
     - Function to save object into a box 
     - Function to wet people (function to shoot another player)
-    - Function when you lost object (When another player fall down you with water gun)
+    - Function when you lose object (When another player push you over with a water gun)
     
- - We will the Website, thanks to Symfony, with different steps:
-    - Create a link between the game and the future Website (that's to say connect letters and future words)
-    - Historic of the game playing 
-    - Create the Open part of the project :
+ - We will create a Website with Symfony in several steps:
+    - Create a link between the game and the future Website (that's to say connect letters and words)
+    - Records and history of the game you have played
+    - Create open parts of the project :
         - We want that every people can add every dictionary they want
         - In future, we would like to open the content of the game. That's to say if you want to add math, you can make it. 
     
-- During all the project, we will make a documentation about all of things 
+- During all the project, we will make a documentation about all of things.
  
