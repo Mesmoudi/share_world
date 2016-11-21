@@ -1,3 +1,5 @@
+#Listening-to-Plants
+
 This repository describes the project "Listening to Plants", created for the "Learning by Doing" class in the fall of 2016.
 
 Authors : Anthony Jahn and Louis Audéon
