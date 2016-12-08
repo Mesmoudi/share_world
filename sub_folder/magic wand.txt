@@ -28,5 +28,13 @@ think of what kinds of data are most meaningful to collect (me, Fabienne)
 consider ways to aggregate data from users and make it participatory (me, Salma)
 look into opportunities to have young children (age 5-7) use toy and collect data (Imad, Pascale, JFB)
 
+Update of magic wand (aka rain stick) project
+
+second prototype with PVC pipe
+drilled small holes with dremmel tool
+hammered in nails
+designed and printed 2 hourglass figures to slow down flow of "rain"
+printed end caps for rain stick
+added photo documentation to github
 
 
